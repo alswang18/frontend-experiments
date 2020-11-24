@@ -1,2 +1,2 @@
 # frontend-experiments
-[Kirby Dreamland Tribute](https://alswang18.github.io/frontend-experiments/Dreamland/index.html)
+<a href="https://alswang18.github.io/frontend-experiments/Dreamland/index.html" target="_blank">Kirby Dreamland Tribute</a>
